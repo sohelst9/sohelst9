@@ -43,7 +43,7 @@ Hi, I'm **Sohel Rana**, a dedicated **Web Developer** and **Game Developer** wit
 A dynamic multi-user game portal built with **Laravel** and **Vue.js**, featuring real-time multiplayer functionality and a modern dashboard.
 
 ### [🌐 Web Portfolio](https://sohel-pi.vercel.app)
-A responsive web portfolio to showcase my web development and game projects. Built with **Laravel**, **Vue.js**, and **Tailwind CSS**.
+A responsive web portfolio to showcase my web development project.
 
 ### [⚽ Soccer and Spikes]
 A fun 2D game developed in **Construct 3**, featuring platform mechanics and competitive multiplayer mode.
