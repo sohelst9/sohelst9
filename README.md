@@ -15,20 +15,20 @@
 
 <!-- Social Media Links -->
 <p align="center">
-  <a href="https://your-website-url"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
+  <a href="https://sohel-pi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge" /></a>
+  <a href="https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="mailto:websohel89@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
 </p>
 
 <!-- About Me Section -->
 ## 🧑‍💻 About Me
 Hi, I'm **Sohel Rana**, a dedicated **Web Developer** and **Game Developer** with a passion for building interactive web applications and fun games. I specialize in creating **modern web solutions** using **PHP, Laravel, Vue.js**, and developing exciting games with **Construct 3**.
 
-- 🔭 I’m currently working on building a multi-user game portal.
-- 🌱 I’m learning **Three.js** to bring more 3D features into my games.
-- ⚡ Fun fact: I started programming at 15 and built my first game at 17!
-- 💬 Let's talk about **web development, game development, or new tech trends**.
+🌍 I enjoy building responsive websites using HTML, CSS, and JavaScript, ensuring an optimal user experience across devices.
+📈 My expertise in Laravel allows me to create robust web applications with features like user authentication, data management, and real-time updates.
+🎮 In game development, I use Construct 3 to create interactive and visually appealing games, focusing on game mechanics and player engagement.
+⚡ A fun fact about me: I built my first web application at 16 and have been fascinated by the intersection of web and game development ever since!
+💬 I love discussing tech trends, best coding practices, and innovative solutions in both web development and game design. Let’s connect!
 
 <!-- My Skillset -->
 ## 🚀 My Skillset
