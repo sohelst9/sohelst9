@@ -2,9 +2,6 @@
 <div align="center" style="position: relative;">
   <!-- Banner Image -->
   <img src="https://sohel-pi.vercel.app/image/banner.png" alt="GitHub Banner" width="100%" style="border-radius: 0;"/>
-
-  <!-- Profile Image -->
-  <img src="https://sohel-pi.vercel.app/image/sohel.webp" alt="Profile Image" width="150" height="150" style="border-radius: 50%; border: 5px solid white; position: absolute; bottom: -75px; left: 50%; transform: translateX(-50%);" />
 </div>
 
 <!-- Adding some space after the profile image -->
