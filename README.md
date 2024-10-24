@@ -56,7 +56,7 @@ A fun 2D game developed in **Construct 3**, featuring platform mechanics and com
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Sohel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sohelst9&show_icons=true&theme=radical" alt="Sohel's GitHub Stats" />
 </p>
 
 <p align="center">
