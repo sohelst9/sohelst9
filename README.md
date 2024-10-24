@@ -60,12 +60,12 @@ A fun 2D game developed in **Construct 3**, featuring platform mechanics and com
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohelst9&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&bg_color=1F1B24&color=F8D866&line=4CAF50&point=FF5E5B&area_color=44475a&area=true" alt="Sohel's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohelst9&bg_color=1F1B24&color=F8D866&line=4CAF50&point=FF5E5B&area_color=44475a&area=true" alt="Sohel's Activity Graph" />
 </p>
 
 <!-- Tools and Technologies -->
