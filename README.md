@@ -5,7 +5,7 @@
 </div>
 
 <!-- Adding some space after the profile image -->
-<br><br><br>
+<br>
 
 <h1 align="center">Hello, I'm <span style="color:#4CAF50;">Sohel Rana</span> 👋</h1>
 <p align="center">
