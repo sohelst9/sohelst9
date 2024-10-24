@@ -1,11 +1,11 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-url" alt="GitHub Banner" width="100%" />
+  <img src="https://sohel-pi.vercel.app/image/banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
 <!-- Profile Image and Greeting -->
 <p align="center">
-  <img src="https://your-profile-image-url" alt="Profile Image" width="150" height="150" style="border-radius:50%; border: 5px solid #4CAF50;" />
+  <img src="https://sohel-pi.vercel.app/image/sohel.webp" alt="Profile Image" width="150" height="150" style="border-radius:50%; border: 5px solid #4CAF50;" />
 </p>
 
 <h1 align="center">Hello, I'm <span style="color:#4CAF50;">Sohel Rana</span> 👋</h1>
