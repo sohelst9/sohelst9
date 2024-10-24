@@ -31,11 +31,26 @@ Hi, I'm **Sohel Rana**, a dedicated **Web Developer** and **Game Developer** wit
 💬 I love discussing tech trends, best coding practices, and innovative solutions in both web development and game design. Let’s connect!
 
 <!-- My Skillset -->
-## 🚀 My Skillset
-### Web Development
-- **Languages**: ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-- **Frameworks**: ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) 
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+🚀 My Skillset
+Web Development
+Languages:
+
+
+
+
+
+Frameworks:
+
+
+
+Game Development
+Game Engines:
+
+Additional Skills
+Tools:
+
+
+
 
 ### Game Development
 - **Game Engines**: ![Construct 3](https://img.shields.io/badge/-Construct%203-000000?style=flat&logo=construct-3&logoColor=white)
