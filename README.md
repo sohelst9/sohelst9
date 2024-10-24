@@ -1,12 +1,14 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://sohel-pi.vercel.app/image/banner.png" alt="GitHub Banner" width="100%" />
-</p>
+<!-- Banner and Profile Section (Facebook-like Design) -->
+<div align="center" style="position: relative;">
+  <!-- Banner Image -->
+  <img src="https://sohel-pi.vercel.app/image/banner.png" alt="GitHub Banner" width="100%" style="border-radius: 0;"/>
 
-<!-- Profile Image and Greeting -->
-<p align="center">
-  <img src="https://sohel-pi.vercel.app/image/sohel.webp" alt="Profile Image" width="150" height="150" style="border-radius:50%; border: 5px solid #4CAF50;" />
-</p>
+  <!-- Profile Image -->
+  <img src="https://sohel-pi.vercel.app/image/sohel.webp" alt="Profile Image" width="150" height="150" style="border-radius: 50%; border: 5px solid white; position: absolute; bottom: -75px; left: 50%; transform: translateX(-50%);" />
+</div>
+
+<!-- Adding some space after the profile image -->
+<br><br><br>
 
 <h1 align="center">Hello, I'm <span style="color:#4CAF50;">Sohel Rana</span> 👋</h1>
 <p align="center">
@@ -84,3 +86,4 @@ A fun 2D game developed in **Construct 3**, featuring platform mechanics and com
 <p align="center">
   <i>Building the future, one line of code at a time 🚀</i>
 </p>
+
