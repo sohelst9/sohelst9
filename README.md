@@ -18,16 +18,12 @@
 Hi, I'm **Sohel Rana**, a dedicated **Web Developer** and **Game Developer** with a passion for building interactive web applications and fun games. I specialize in creating **modern web solutions** using **PHP, Laravel, Vue.js**, and developing exciting games with **Construct 3**.
 
 
-
-
-<!-- GitHub Stats Section -->
-## 📊 GitHub Stats
-
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohelst9&bg_color=1F1B24&color=F8D866&line=4CAF50&point=FF5E5B&area_color=44475a&area=true" alt="Sohel's Activity Graph" />
-</p>
+{
+  programming_languages: ['PHP', 'JavaScript'],
+  front_end: ['Vue JS', 'Bootstrap'],
+  back_end: ['PHP', 'Laravel'],
+  others: ['Git & Github', 'REST API', '...']
+}
 
 <!-- Tools and Technologies -->
 ## ⚙️ Tools & Technologies
