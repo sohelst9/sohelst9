@@ -33,18 +33,8 @@ Hi, I'm **Sohel Rana**, a dedicated **Web Developer** and **Game Developer** wit
 ## Other Tools and Technologies
 - Git & GitHub
 - REST API
-- ...
 
-<!-- Tools and Technologies -->
-## ⚙️ Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Construct%203-000000?style=for-the-badge&logo=construct-3&logoColor=white" alt="Construct 3" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+
 
 <!-- Footer -->
 ---
