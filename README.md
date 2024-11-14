@@ -18,12 +18,22 @@
 Hi, I'm **Sohel Rana**, a dedicated **Web Developer** and **Game Developer** with a passion for building interactive web applications and fun games. I specialize in creating **modern web solutions** using **PHP, Laravel, Vue.js**, and developing exciting games with **Construct 3**.
 
 
-{
-  programming_languages: ['PHP', 'JavaScript'],
-  front_end: ['Vue JS', 'Bootstrap'],
-  back_end: ['PHP', 'Laravel'],
-  others: ['Git & Github', 'REST API', '...']
-}
+## Programming Languages
+- PHP
+- JavaScript
+
+## Front-End Technologies
+- Vue JS
+- Bootstrap
+
+## Back-End Technologies
+- PHP
+- Laravel
+
+## Other Tools and Technologies
+- Git & GitHub
+- REST API
+- ...
 
 <!-- Tools and Technologies -->
 ## ⚙️ Tools & Technologies
